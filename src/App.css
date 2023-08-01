@@ -1,0 +1,60 @@
+.textCenter{
+  text-align: center;
+}
+
+.websiteWidth{
+  width: 50%;
+  margin: auto;
+  margin-top: 16vh;
+}
+
+.questionBtn{
+  width: 100%;
+}
+
+.questionBtn button{
+  width: 45%;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  padding: 5px;
+  font-weight: bold;
+  margin-left: 7px;
+  font-weight: bold;
+  margin-right: 0%;
+}
+
+.nextBtn{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.centered-button{
+  width: 60px;
+  padding: 4px;
+}
+
+.blackBtn{
+  background-color: black;
+  color:white;
+}
+
+.progress-bar{
+  background-color: gray;
+  color: gray;
+}
+
+.progress-bar-striped{
+  background-color: green;
+  color: green;
+}
+
+.stackedBar{
+  position: absolute;
+  bottom: 10vh;
+}
+
+.maxMarks{
+  position: relative;
+  left:28vw;
+}
