@@ -98,11 +98,11 @@ export const questionData = [
       "type": "multiple",
       "difficulty": "medium",
       "question": "In 2013 how much money was lost by Nigerian scams F ?",
-      "correct_answer": "%2412.7 Billion",
+      "correct_answer": "2412.7 Billion",
       "incorrect_answers": [
-        "%2495 Million",
-        "%24956 Million",
-        "%242.7 Billion"
+        "2495 Million",
+        "24956 Million",
+        "242.7 Billion"
       ]
     },
     {

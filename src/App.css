@@ -58,3 +58,24 @@ align-items: center;
   position: relative;
   left:28vw;
 }
+
+@media screen and (max-width:600px){
+
+  .websiteWidth{
+    font-size: 13px;
+    width: 75%;
+  }
+  .maxMarks{
+    left: 26vw;
+  }
+  .stackedBar{
+    bottom: 5vh;
+  }
+}
+
+
+@media  screen and (min-width:601px) and (max-width:650px) {
+  .stackedBar{
+    bottom: 5vh;
+  }
+}
